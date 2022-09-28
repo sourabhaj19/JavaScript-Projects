@@ -1,0 +1,28 @@
+.adjust
+{
+    background-color: 3B8785;
+    padding: 50px 30px;
+    margin-top: 20px;
+    text-align: center;
+    
+    
+}
+.adjust1
+{
+    background-color: 0C486A;
+    padding: 30px 30px;
+    margin-top: 70px;
+    text-align: center;
+    color: white;
+}
+#Myclock{
+    font-weight: bold;
+    font-size: 50px;
+}
+body{
+    background-color: C1D8B6;
+}
+.icon{
+   font-size:36px; 
+   margin-bottom: 20px;
+}
